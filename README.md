@@ -1,4 +1,4 @@
-# smart-organize
+# smart-organizer
 
 A local file organizer: a C++ scanner walks a directory and extracts
 metadata, an LLM categorizes the files (Python service),
