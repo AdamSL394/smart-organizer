@@ -1,0 +1,6 @@
+build/
+*.json
+!example/*.json
+.organizer/
+journal_*.log
+*.organizer_tmp
