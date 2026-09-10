@@ -17,6 +17,7 @@ add_executable(organizer
   src/main.cpp
   src/scanner.cpp
   src/hashing.cpp
+  src/executor.cpp
 )
 
 target_include_directories(organizer PRIVATE include)
